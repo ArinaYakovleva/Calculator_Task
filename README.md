@@ -2,4 +2,4 @@
 Simple iOS app multiplying 2 numbers
 
 
-![](demo_calculator.mov)
+![](demo_calculator-2.mov)
